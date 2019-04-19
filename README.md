@@ -1,4 +1,4 @@
-# react-native
+# React Native Community
 
-## Welcome to the react-native Cluj-JavaScripters official repo!
+## Welcome to the React Native Community Repoof JSHeroes!
 
