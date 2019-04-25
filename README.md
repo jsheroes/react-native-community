@@ -4,5 +4,4 @@
 
 ## Welcome to the React Native Community Repo of JSHeroes!
 
-### React Native Community Docs
-* [documentation](./docs/readme.md): 
+### React Native Community => [Docs](./docs/readme.md)
