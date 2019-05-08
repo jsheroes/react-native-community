@@ -9,3 +9,7 @@ Welcome to the React Native Community Repo of JSHeroes! Our goal is to provide a
 * [Getting Started](./docs/getting-started.md)
 * [Learning Resources](./docs/learning-resources.md)
 * [Library Recomandations](./docs/library-recs.md)
+
+## Meetups
+* [React-Native Open Discussion](https://github.com/jsheroes/meetups/blob/master/frameworks/react/react-native-open-discussion.md)
+* [Intro to React-Native and Apollo-Client](https://github.com/jsheroes/meetups/blob/master/frameworks/react/intro-react-native-graphql-apollo-client.md)
