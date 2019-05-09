@@ -8,6 +8,10 @@
 ### Egghead.io
 - Tutorial for beginners: https://egghead.io/lessons/react-start-building-a-react-native-application
 
+## Books
+
+- React Native in Action by Nader Dabit: https://www.amazon.com/React-Native-Action-Nader-Dabit/dp/1617294055
+
 ## Video Series
 
 ### Can it be done in React-Native?
