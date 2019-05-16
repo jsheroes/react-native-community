@@ -19,3 +19,8 @@
 This is a Youtube series created by William Candillon. It features episodes with live coding awesome stuff like "YouTube Transitions", "Instagram stories", "Snapchat Discovery" and many more.
 - Videos: https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA
 - Code: https://github.com/wcandillon/can-it-be-done-in-react-native
+
+### React-Native Show
+
+This is a Youtube series from developers on the React-Native core team. The first episode showcases the New App Screen that was entirely built by the React Native community.
+- Videos: https://www.youtube.com/channel/UCgeUrVLNMgm-Zl9AmUbkw7g/videos
